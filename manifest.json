@@ -1,0 +1,22 @@
+[
+  {
+    "id": "hero_appointments_clock.svg",
+    "title": "Hero – Appointments (Clock, Green)",
+    "keywords": ["appointments", "clock", "time", "green", "schedule"],
+    "placement_zone": "hero",
+    "orientation": "landscape",
+    "min_width_px": 1440,
+    "theme": "green",
+    "url": "https://raw.githubusercontent.com/<your-user>/image-catalog-poc/main/hero/hero_appointments_clock.svg"
+  },
+  {
+    "id": "card_time_black.svg",
+    "title": "Card – Time Icon (Black/White)",
+    "keywords": ["time", "clock", "mono", "black", "ui"],
+    "placement_zone": "card",
+    "orientation": "square",
+    "min_width_px": 512,
+    "theme": "neutral",
+    "url": "https://raw.githubusercontent.com/<your-user>/image-catalog-poc/main/card/card_time_black.svg"
+  }
+]
